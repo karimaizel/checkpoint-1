@@ -1,0 +1,36 @@
+nav{
+    background-color: rgb(55, 216, 23);
+    
+}
+
+nav div{
+    display:inline-block;
+   }
+nav li{
+display: inline-block; 
+margin: 50px;
+float: right;
+}
+.logo{
+width:auto;
+height:auto;
+}
+
+#home  .description, #home .image{
+    display: inline-block;
+    vertical-align: top;
+    width: 45%;
+    margin: 20px;
+}
+.image img{
+    max-width: 100%;
+    height: auto;
+}
+
+
+#products h1{
+    text-align: center;
+    padding:20px ;
+   
+s
+
